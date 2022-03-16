@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "timestamp":"",
+    "nombre": "Pc Mac",
+    "descripcion":"La mejor",
+    "código":12,
+    " foto (url)":"https://www.apple.com/newsroom/images/product/imac/standard/Apple_imac-magickeyboardnum-magicmouse2-macos-wallpaper_08042020.jpg.og.jpg?202203111343",
+    "precio":3000
+}
+
+  {  "id": 1,
+    "timestamp":"",
+    "nombre": "Pc Mac",
+    "descripcion":"La mejor",
+    "código":12,
+    " foto (url)":"https://www.apple.com/newsroom/images/product/imac/standard/Apple_imac-magickeyboardnum-magicmouse2-macos-wallpaper_08042020.jpg.og.jpg?202203111343",
+    "precio":3000
+
+}
